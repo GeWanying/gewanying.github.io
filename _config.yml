@@ -1,0 +1,24 @@
+title: Wanying Ge
+url: "https://gewanying.github.io/"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_text: "Last update: July 2023"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Publications"
+   link: "publication"
+ - name: "Others"
+   link: "others"
+
