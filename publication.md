@@ -3,7 +3,16 @@ layout: default
 title: Publications
 ---
 
-## Adversarial Attack for Voice Anti-Spoofing
+## Thoughts on Anti-Anti-Spoofing
+
+Preprint - <b>Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?</b> 
+
+<b>Wanying Ge</b>, Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Nicholas Evans
+
+<em>Submitted to ICASSP 2024</em>
+
+[[Paper](https://arxiv.org/pdf/2309.09586.pdf)]
+
 
 <b>Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems</b> 
 

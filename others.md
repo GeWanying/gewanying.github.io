@@ -29,3 +29,8 @@ I do enjoy paper writing, it's fascinating to me to organize findings and presen
 * Movies and animations with fascinating storylines.
 
 I also enjoy scrolling world map and reading Wikipedia pages of random cities.
+
+## Hit counter
+
+| 1 | 8 | 9 | 5 |
+|---|---|---|---|
