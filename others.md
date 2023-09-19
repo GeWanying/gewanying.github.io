@@ -33,4 +33,3 @@ I also enjoy scrolling world map and reading Wikipedia pages of random cities.
 ## Hit counter
 
 | 1 | 8 | 9 | 5 |  
-|---|---|---|---|  
