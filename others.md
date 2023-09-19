@@ -33,3 +33,5 @@ I also enjoy scrolling world map and reading Wikipedia pages of random cities.
 ## Hit counter
 
 | 1 | 8 | 9 | 5 |  
+
+> _"I reset the counter last night. This blog had nearly two-thousand hits in the last eight hours. This is your living ..."_ by Dr. John Watson in *A Scandal in Belgravia*.
