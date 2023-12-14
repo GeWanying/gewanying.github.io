@@ -28,7 +28,7 @@ I do enjoy paper writing, it's fascinating to me to organize findings and presen
 * Video games: [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) II - Unity, [To the Moon](https://en.wikipedia.org/wiki/To_the_Moon) and [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)).
 * Movies and animations with fascinating storylines.
 
-I also enjoy scrolling world map and reading Wikipedia pages of random cities.
+I also enjoy scrolling world map and reading Wikipedia articles of random cities.
 
 ## Hit counter
 

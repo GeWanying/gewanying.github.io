@@ -5,11 +5,11 @@ title: Publications
 
 ## Thoughts on Anti-Anti-Spoofing
 
-Preprint - <b>Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?</b> 
+<b>Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?</b> 
 
 <b>Wanying Ge</b>, Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Nicholas Evans
 
-<em>Submitted to ICASSP 2024</em>
+<em>ICASSP 2024</em>
 
 [[Paper](https://arxiv.org/pdf/2309.09586.pdf)]
 
@@ -20,7 +20,7 @@ Michele Panariello\*, <b>Wanying Ge</b>\*, Hemlata Tak, Massimiliano Todisco, Ni
 
 <em>INTERSPEECH 2023</em>
 
-[[Paper](https://arxiv.org/pdf/2306.07655.pdf)]
+[[Paper](https://arxiv.org/pdf/2306.07655.pdf)] [[Code](https://github.com/eurecom-asp/malafide)]
 
 ## Joint Optimisation of ASV and CM
 
