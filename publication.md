@@ -22,7 +22,7 @@ Michele Panariello\*, <b>Wanying Ge</b>\*, Hemlata Tak, Massimiliano Todisco, Ni
 
 [[Paper](https://arxiv.org/pdf/2306.07655.pdf)] [[Code](https://github.com/eurecom-asp/malafide)]
 
-## Joint Optimisation of ASV and CM
+## Spoofing-Aware Speaker Verification
 
 <b>Can Spoofing Countermeasure and Speaker Verification Systems Be Jointly Optimised?</b> 
 
