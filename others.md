@@ -21,7 +21,7 @@ My understanding is, our framework uses a feature attribution method to identify
 
 ## Other interests
 
-I do enjoy paper writing, it's fascinating to me to organize findings and present them in a structured way, like building Lego. And I think such interest is connected to my other interests in storytelling:
+I do enjoy paper writing, it's fascinating to me to organize findings and present them in a structured way, like building LEGO. And I think such interest is connected to my other interests in storytelling:
 
 * Books about historical figures: 竜馬がゆく ([wiki](https://en.wikipedia.org/wiki/Sakamoto_Ry%C5%8Dma)) and 新史太閤記 ([wiki](https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi)) written by [Ryōtarō Shiba](https://en.wikipedia.org/wiki/Ry%C5%8Dtar%C5%8D_Shiba), and 宮本武蔵 ([wiki](https://en.wikipedia.org/wiki/Miyamoto_Musashi)) by [Eiji Yoshikawa](https://en.wikipedia.org/wiki/Eiji_Yoshikawa).
 * TV series: [Agatha Christie's Poirot](https://en.wikipedia.org/wiki/Agatha_Christie%27s_Poirot) and [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who).
