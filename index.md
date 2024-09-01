@@ -15,7 +15,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 * Marie Skłodowska-Curie Research Fellow ([TReSPAsS-ETN](https://www.trespass-etn.eu/)), EURECOM, September 2020 - May 2024
 * Research Intern, Idiap Research Institute, April 2023 - July 2023
 
-# Publications
+## Publications
 
 <p>
     <span style="color: #0452CA;">Spoofing-robust Automatic Speaker Verification: Architecture, Explainability and Joint Optimisation</span>
