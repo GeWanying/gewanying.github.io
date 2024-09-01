@@ -1,0 +1,20 @@
+title: 
+url: "https://gewanying.github.io/"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_text: "Last update: September 2024"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: ""
+   link: "index"
+
