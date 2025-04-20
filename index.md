@@ -19,7 +19,10 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 
 <p>
     <span style="color: #0452CA;">Proactive Detection of Speaker Identity Manipulation with Neural Watermarking</span>
-    <br>
+    <a href="https://openreview.net/pdf?id=erXPKrUsoD" target="_blank">
+    <i class="fas fa-file-pdf"></i>
+    </a>
+<br>
     Wanying Ge, Xin Wang, Junichi Yamagishi<br>
     <em>ICLR 2025 Workshop on GenAI Watermarking</em>
 </p>
