@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-## About Me
+## About me
 
 <img class="profile-picture" src="photo.png">
 
@@ -16,6 +16,32 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 * Research Intern, Idiap Research Institute, April 2023 - July 2023
 
 ## Publications
+
+<p>
+    <span style="color: #0452CA;">Post-training for Deepfake Speech Detection</span>
+    <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
+        <i class="fas fa-file-pdf"></i>
+    </a>
+    <a href="https://github.com/nii-yamagishilab/AntiDeepfake" target="_blank">
+        <i class="fab fa-github"></i>
+    </a>
+<br>
+    Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
+    <em>Pre-print</em>
+</p>
+
+<p>
+    <span style="color: #0452CA;">A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
+    <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
+        <i class="fas fa-file-pdf"></i>
+    </a>
+    <a href="https://github.com/nii-yamagishilab/antispoofing-watermark" target="_blank">
+        <i class="fab fa-github"></i>
+    </a>
+<br>
+    Chia-Hua Wu, Wanying Ge, Xin Wang, Junichi Yamagishi, Yu Tsao, Hsin-Min Wang<br>
+    <em>Accepted to INTERSPEECH 2025</em>
+</p>
 
 <p>
     <span style="color: #0452CA;">Proactive Detection of Speaker Identity Manipulation with Neural Watermarking</span>
