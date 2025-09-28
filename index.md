@@ -18,7 +18,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 ## Publications
 
 <p>
-    <span style="color: #0452CA;">Towards Data Drift Monitoring for <u>Speech Deepfake Detection</u> in the context of MLOps</span>
+    <span style="color: #0452CA;">[Pre-print] Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps</span>
     <a href="https://arxiv.org/pdf/2509.10086" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -27,11 +27,10 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
     </a>
 <br>
     Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-    <em>Pre-print</em>
 </p>
 
 <p>
-    <span style="color: #0452CA;">Post-training for <u>Deepfake Speech Detection</u></span>
+    <span style="color: #0452CA;">[Pre-print] Post-training for Deepfake Speech Detection</span>
     <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -40,11 +39,10 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
     </a>
 <br>
     Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
-    <em>Pre-print</em>
 </p>
 
 <p>
-    <span style="color: #0452CA;">A Comparative Study on <u>Proactive and Passive Detection of Deepfake Speech</u></span>
+    <span style="color: #0452CA;">[INTERSPEECH '25] A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
     <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -57,7 +55,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Proactive Detection of Speaker Identity Manipulation with <u>Neural Watermarking</u></span>
+    <span style="color: #0452CA;">[ICLR Workshop '25] Proactive Detection of Speaker Identity Manipulation with Neural Watermarking</span>
     <a href="https://openreview.net/pdf?id=erXPKrUsoD" target="_blank">
     <i class="fas fa-file-pdf"></i>
     </a>
@@ -67,7 +65,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;"><u>Spoofing-robust Automatic Speaker Verification</u>: Architecture, Explainability and Joint Optimisation</span>
+    <span style="color: #0452CA;">Spoofing-robust Automatic Speaker Verification: Architecture, Explainability and Joint Optimisation</span>
     <a href="https://www.eurecom.fr/en/publication/7681?slug=spoofing-robust-automatic-speaker-verification-architecture-explainability-and-joint-optimisation" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -79,7 +77,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;"><u>Spoofing Attack Augmentation</u>: Can Differently-Trained Attack Models Improve Generalisation?</span>
+    <span style="color: #0452CA;">[ICASSP '24] Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?</span>
     <a href="https://arxiv.org/pdf/2309.09586.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -89,7 +87,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Malafide: A Novel <u>Adversarial Convolutive Noise Attack Against Deepfake</u> and Spoofing Detection Systems</span>
+    <span style="color: #0452CA;">[INTERSPEECH '23] Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems</span>
     <a href="https://arxiv.org/pdf/2306.07655.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -102,7 +100,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Can <u>Spoofing Countermeasure and Speaker Verification</u> Systems Be Jointly Optimised?</span>
+    <span style="color: #0452CA;">[ICASSP '23] Can Spoofing Countermeasure and Speaker Verification Systems Be Jointly Optimised?</span>
     <a href="https://arxiv.org/pdf/2303.07073.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -115,7 +113,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">On the Potential of Jointly-Optimised Solutions to <u>Spoofing Attack Detection and Automatic Speaker Verification</u></span>
+    <span style="color: #0452CA;">[IberSPEECH '22] On the Potential of Jointly-Optimised Solutions to Spoofing Attack Detection and Automatic Speaker Verification</span>
     <a href="https://arxiv.org/pdf/2209.00506.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -128,7 +126,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;"><u>Explainable Deepfake and Spoofing Detection</u>: An Attack Analysis Using SHapley Additive exPlanations</span>
+    <span style="color: #0452CA;">[Odyssey '22] Explainable Deepfake and Spoofing Detection: An Attack Analysis Using SHapley Additive exPlanations</span>
     <a href="https://arxiv.org/pdf/2202.13693.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -141,7 +139,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;"><u>Explaining</u> Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
+    <span style="color: #0452CA;">[ICASSP '22] Explaining Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
     <a href="https://arxiv.org/pdf/2110.03309.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -151,7 +149,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Raw Differentiable Architecture Search for <u>Speech Deepfake and Spoofing Detection</u></span>
+    <span style="color: #0452CA;">[ASVspoof '21] Raw Differentiable Architecture Search for Speech Deepfake and Spoofing Detection</span>
     <a href="https://arxiv.org/pdf/2107.12212.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -164,7 +162,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Partially-Connected Differentiable Architecture Search for <u>Deepfake and Spoofing Detection</u></span>
+    <span style="color: #0452CA;">[INTERSPEECH '21] Partially-Connected Differentiable Architecture Search for Deepfake and Spoofing Detection</span>
     <a href="https://arxiv.org/pdf/2104.03123.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
@@ -177,7 +175,7 @@ I'm working on neural watermarking and speech synthesis. I studied my Ph.D. in v
 </p>
 
 <p>
-    <span style="color: #0452CA;">Monaural Noisy <u>Speech Separation</u> Combining Sparse Non-negative Matrix Factorization and Deep Attractor Network</span>
+    <span style="color: #0452CA;">Monaural Noisy Speech Separation Combining Sparse Non-negative Matrix Factorization and Deep Attractor Network</span>
 <br>
     Wanying Ge, Tianqi Zhang, Congcong Fan, Tian Zhang<br>
     <em>Chinese Journal of Acoustics, 2020.</em>
