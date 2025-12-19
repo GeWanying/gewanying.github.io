@@ -4,9 +4,9 @@
 
 <img class="profile-picture" src="photo.png">
 
-Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/). 
+Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/).
 
-I'm working on neural watermarking. I studied my Ph.D. in voice spoofing / deepfake detection. Also, I studied speech separation and enhancement during my Master's.
+My research focuses on speech processing, with experience in watermarking, deepfake detection, speaker verification, and source separation.
 
 ## Experience
 
@@ -39,7 +39,7 @@ I'm working on neural watermarking. I studied my Ph.D. in voice spoofing / deepf
     </a>
 <br>
     Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
-    <em>in IEEE ASRU 2025 (to appear).</em>
+    <em>in IEEE ASRU 2025.</em>
 </p>
 
 <p>
