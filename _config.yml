@@ -7,8 +7,8 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_text: "Last update: October 2025"
+footer: no
+# footer_text: "Last update: October 2025"
 
 sass:
     style: compressed

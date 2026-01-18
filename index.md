@@ -18,15 +18,16 @@ My research focuses on speech processing, with experience in watermarking, deepf
 ## Publications
 
 <p>
-    <span style="color: #0452CA;">[Pre-print] Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps</span>
+    <span style="color: #0452CA;">[ICASSP '26] Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps</span>
     <a href="https://arxiv.org/pdf/2509.10086" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
-    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/tree/develop-drift" target="_blank">
+    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_drift.md" target="_blank">
         <i class="fab fa-github"></i>
     </a>
 <br>
     Xin Wang, Wanying Ge, Junichi Yamagishi<br>
+    <em>to appear in ICASSP 2026.</em>
 </p>
 
 <p>
