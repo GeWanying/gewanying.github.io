@@ -15,7 +15,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
 * Marie Skłodowska-Curie Research Fellow ([TReSPAsS-ETN](https://www.trespass-etn.eu/)), EURECOM, September 2020 - May 2024
 * Research Intern, Idiap Research Institute, April 2023 - July 2023
 
-## Publications
+## Selected publications
 
 <p>
     <span style="color: #0452CA;">[Preprint] Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
