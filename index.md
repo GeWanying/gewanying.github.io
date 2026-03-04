@@ -18,6 +18,27 @@ My research focuses on speech processing, with experience in watermarking, deepf
 ## Publications
 
 <p>
+    <span style="color: #0452CA;">[Preprint] Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
+    <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
+        <i class="fas fa-file-pdf"></i>
+    </a>
+    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/tree/develop-grpo" target="_blank">
+        <i class="fab fa-github"></i>
+    </a>
+<br>
+    Xin Wang, Wanying Ge, Junichi Yamagishi<br>
+</p>
+
+<p>
+    <span style="color: #0452CA;">[Preprint] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
+    <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
+        <i class="fas fa-file-pdf"></i>
+    </a>
+<br>
+    Wanying Ge, Xin Wang, Junichi Yamagishi<br>
+</p>
+
+<p>
     <span style="color: #0452CA;">[ICASSP '26] Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps</span>
     <a href="https://arxiv.org/pdf/2509.10086" target="_blank">
         <i class="fas fa-file-pdf"></i>
@@ -27,7 +48,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
     </a>
 <br>
     Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-    <em>to appear in ICASSP 2026.</em>
+    <em>in ICASSP 2026.</em>
 </p>
 
 <p>
