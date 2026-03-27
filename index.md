@@ -30,12 +30,13 @@ My research focuses on speech processing, with experience in watermarking, deepf
 </p>
 
 <p>
-    <span style="color: #0452CA;">[Preprint] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
+    <span style="color: #0452CA;">[CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
     <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
 <br>
     Wanying Ge, Xin Wang, Junichi Yamagishi<br>
+    <em> The Authenticity & Provenance in the Age of AI workshop.</em>
 </p>
 
 <p>
@@ -52,7 +53,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
 </p>
 
 <p>
-    <span style="color: #0452CA;">[ASRU 2025] Post-training for Deepfake Speech Detection</span>
+    <span style="color: #0452CA;">[ASRU '25] Post-training for Deepfake Speech Detection</span>
     <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
