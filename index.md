@@ -22,11 +22,12 @@ My research focuses on speech processing, with experience in watermarking, deepf
     <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
         <i class="fas fa-file-pdf"></i>
     </a>
-    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/tree/develop-grpo" target="_blank">
+    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_drift.md" target="_blank">
         <i class="fab fa-github"></i>
     </a>
 <br>
     Xin Wang, Wanying Ge, Junichi Yamagishi<br>
+    <em>in INTERSPEECH 2026.</em>
 </p>
 
 <p>
@@ -49,7 +50,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
     </a>
 <br>
     Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-    <em>in ICASSP 2026.</em>
+    <em>in ICASSP 2026, pp. 18052-18056</em>
 </p>
 
 <p>
@@ -62,7 +63,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
     </a>
 <br>
     Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
-    <em>in IEEE ASRU 2025.</em>
+    <em>in IEEE ASRU 2025, pp. 1-8.</em>
 </p>
 
 <p>
