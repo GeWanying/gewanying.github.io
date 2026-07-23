@@ -2,7 +2,7 @@
 
 ## About me
 
-<img class="profile-picture" src="photo.png">
+<img class="profile-picture" src="profile.jpg">
 
 Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/).
 
@@ -12,202 +12,141 @@ My research focuses on speech processing, with experience in watermarking, deepf
 
 * Postdoctoral Researcher, National Institute of Informatics, August 2024 - Present
 * Ph.D., Sorbonne University, September 2020 - May 2024
-* Marie Skłodowska-Curie Research Fellow ([TReSPAsS-ETN](https://www.trespass-etn.eu/)), EURECOM, September 2020 - May 2024
+* Marie Skłodowska-Curie Research Fellow, EURECOM, September 2020 - May 2024
 * Research Intern, Idiap Research Institute, April 2023 - July 2023
 
 ## Selected publications
 
-<p>
-    <span style="color: #0452CA;">[INTERSPEECH '26] Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
-    <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_grpo.md" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-    <em>in INTERSPEECH 2026.</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/interspeech26-rl-generalization.png" alt="interspeech26-rl-generalization teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[INTERSPEECH '26] Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
+        <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_grpo.md" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+    <br>
+        Xin Wang, Wanying Ge, Junichi Yamagishi<br>
+        <em>in INTERSPEECH 2026.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">[CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
-    <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-<br>
-    Wanying Ge, Xin Wang, Junichi Yamagishi<br>
-    <em> The Authenticity & Provenance in the Age of AI workshop.</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/fakemark.png" alt="fakemark teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
+        <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+    <br>
+        Wanying Ge, Xin Wang, Junichi Yamagishi<br>
+        <em> The Authenticity & Provenance in the Age of AI workshop.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">[ICASSP '26] Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps</span>
-    <a href="https://arxiv.org/pdf/2509.10086" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_drift.md" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-    <em>in proc. ICASSP 2026, pp. 18052-18056</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/asru25-post-training.png" alt="asru25-post-training teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[ASRU '25] Post-training for Deepfake Speech Detection</span>
+        <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/AntiDeepfake" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+    <br>
+        Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
+        <em>in proc. IEEE ASRU 2025, pp. 1-8.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">[ASRU '25] Post-training for Deepfake Speech Detection</span>
-    <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/nii-yamagishilab/AntiDeepfake" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
-    <em>in proc. IEEE ASRU 2025, pp. 1-8.</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/interspeech25-proactive-passive.png" alt="interspeech25-proactive-passive teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[INTERSPEECH '25] A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
+        <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/antispoofing-watermark" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+    <br>
+        Chia-Hua Wu, Wanying Ge, Xin Wang, Junichi Yamagishi, Yu Tsao, Hsin-Min Wang<br>
+        <em>in Proc. INTERSPEECH 2025, pp. 5328-5332.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">[INTERSPEECH '25] A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
-    <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/nii-yamagishilab/antispoofing-watermark" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Chia-Hua Wu, Wanying Ge, Xin Wang, Junichi Yamagishi, Yu Tsao, Hsin-Min Wang<br>
-    <em>in Proc. INTERSPEECH 2025, pp. 5328-5332.</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/odyssey22-shap-attack-analysis.png" alt="odyssey22-shap-attack-analysis teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[Odyssey '22] Explainable Deepfake and Spoofing Detection: An Attack Analysis Using SHapley Additive exPlanations</span>
+        <a href="https://arxiv.org/pdf/2202.13693.pdf" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/eurecom-asp/shap-anti-spoofing" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+    <br>
+        Wanying Ge, Massimiliano Todisco, Nicholas Evans<br>
+        <em>in Proc. The Speaker and Language Recognition Workshop (Odyssey 2022), pp. 70-76.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">[ICLR Workshop '25] Proactive Detection of Speaker Identity Manipulation with Neural Watermarking</span>
-    <a href="https://openreview.net/pdf?id=erXPKrUsoD" target="_blank">
-    <i class="fas fa-file-pdf"></i>
-    </a>
-<br>
-    Wanying Ge, Xin Wang, Junichi Yamagishi<br>
-    <em>The 1st Workshop on GenAI Watermarking</em>
-</p>
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/icassp22-shap.png" alt="icassp22-shap teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[ICASSP '22] Explaining Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
+        <a href="https://arxiv.org/pdf/2110.03309.pdf" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+    <br>
+        Wanying Ge, Jose Patino, Massimiliano Todisco, Nicholas Evans<br>
+        <em>in Proc. ICASSP 2022, pp. 6387-6391.</em>
+    </p>
+    </div>
+</div>
 
-<p>
-    <span style="color: #0452CA;">Spoofing-robust Automatic Speaker Verification: Architecture, Explainability and Joint Optimisation</span>
-    <a href="https://www.eurecom.fr/en/publication/7681?slug=spoofing-robust-automatic-speaker-verification-architecture-explainability-and-joint-optimisation" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://drive.google.com/file/d/1fG_S_E6M05ygrbTzCHVhBcaD6lChu3wU/view?usp=sharing" target="_blank">
-        <i class="fas fa-file-powerpoint"></i>
-    </a><br>
-    Wanying Ge<br>
-    <em>Ph.D. thesis submitted to Sorbonne Université</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[ICASSP '24] Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?</span>
-    <a href="https://arxiv.org/pdf/2309.09586.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-<br>
-    Wanying Ge, Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. ICASSP 2024, pp. 12531-12535.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[INTERSPEECH '23] Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems</span>
-    <a href="https://arxiv.org/pdf/2306.07655.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/malafide" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Michele Panariello<sup>*</sup>, Wanying Ge<sup>*</sup>, Hemlata Tak, Massimiliano Todisco, Nicholas Evans (* equal contribution)<br>
-    <em>in Proc. INTERSPEECH 2023, pp. 2868-2872.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[ICASSP '23] Can Spoofing Countermeasure and Speaker Verification Systems Be Jointly Optimised?</span>
-    <a href="https://arxiv.org/pdf/2303.07073.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/sasv-joint-optimisation" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge, Hemlata Tak, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. ICASSP 2023, pp. 1-5.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[IberSPEECH '22] On the Potential of Jointly-Optimised Solutions to Spoofing Attack Detection and Automatic Speaker Verification</span>
-    <a href="https://arxiv.org/pdf/2209.00506.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/sasv-joint-optimisation" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge<sup>*</sup>, Hemlata Tak<sup>*</sup>, Massimiliano Todisco, Nicholas Evans (* equal contribution)<br>
-    <em>in Proc. IberSPEECH 2022, pp. 51-55, Best Paper Award.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[Odyssey '22] Explainable Deepfake and Spoofing Detection: An Attack Analysis Using SHapley Additive exPlanations</span>
-    <a href="https://arxiv.org/pdf/2202.13693.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/shap-anti-spoofing" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. The Speaker and Language Recognition Workshop (Odyssey 2022), pp. 70-76.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[ICASSP '22] Explaining Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
-    <a href="https://arxiv.org/pdf/2110.03309.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-<br>
-    Wanying Ge, Jose Patino, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. ICASSP 2022, pp. 6387-6391.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[ASVspoof '21] Raw Differentiable Architecture Search for Speech Deepfake and Spoofing Detection</span>
-    <a href="https://arxiv.org/pdf/2107.12212.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/raw-pc-darts-anti-spoofing" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge, Jose Patino, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. 2021 Edition of the Automatic Speaker Verification and Spoofing Countermeasures Challenge (ASVspoof 2021 Workshop), pp. 22-28.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">[INTERSPEECH '21] Partially-Connected Differentiable Architecture Search for Deepfake and Spoofing Detection</span>
-    <a href="https://arxiv.org/pdf/2104.03123.pdf" target="_blank">
-        <i class="fas fa-file-pdf"></i>
-    </a>
-    <a href="https://github.com/eurecom-asp/pc-darts-anti-spoofing" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-<br>
-    Wanying Ge, Michele Panariello, Jose Patino, Massimiliano Todisco, Nicholas Evans<br>
-    <em>in Proc. INTERSPEECH 2021, pp. 4319-4323.</em>
-</p>
-
-<p>
-    <span style="color: #0452CA;">Monaural Noisy Speech Separation Combining Sparse Non-negative Matrix Factorization and Deep Attractor Network</span>
-<br>
-    Wanying Ge, Tianqi Zhang, Congcong Fan, Tian Zhang<br>
-    <em>Chinese Journal of Acoustics, 2020.</em>
-</p>
-
-
-
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/nmf-danet-separation.png" alt="nmf-danet-separation teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">Monaural Noisy Speech Separation Combining Sparse Non-negative Matrix Factorization and Deep Attractor Network</span>
+        <a href="https://www.jac.ac.cn/en/article/doi/10.15949/j.cnki.0371-0025.2021.01.006" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+    <br>
+        Wanying Ge, Tianqi Zhang, Congcong Fan, Tian Zhang<br>
+        <em>Chinese Journal of Acoustics, 2020.</em>
+    </p>
+    </div>
+</div>
 
 ## Contact
 
@@ -217,9 +156,11 @@ And here is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=
 
 ## Hit counter
 
-| 1 | 8 | 9 | 5 |  
+<div class="hit-counter">
+    <span>1</span><span>8</span><span>9</span><span>5</span>
+</div>
 
 <p>
-    <em>"I reset that counter last night. This blog had nearly two thousand hits in the last eight hours. This is your living."</em>
-    <span style="display: block; text-align: right;">&mdash; Dr. John Watson in <cite>A Scandal in Belgravia</cite>.</span>
+    "I reset that counter last night. This blog had nearly two thousand hits in the last eight hours. This is your living."
+    <span style="display: block; text-align: right; font-style: normal;">&mdash;Dr. John Watson, "A Scandal in Belgravia"</span>
 </p>
