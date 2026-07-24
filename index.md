@@ -50,6 +50,8 @@ My research focuses on speech processing, with experience in watermarking, deepf
     <br>
         Wanying Ge, Xin Wang, Junichi Yamagishi<br>
         <em> The Authenticity & Provenance in the Age of AI workshop.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">The local <a href="https://www.denverartmuseum.org/en" target="_blank">museum</a> is one of the best I visited.</span>
     </p>
     </div>
 </div>
@@ -69,7 +71,9 @@ My research focuses on speech processing, with experience in watermarking, deepf
         </a>
     <br>
         Wanying Ge, Xin Wang, Xuechen Liu, Junichi Yamagishi<br>
-        <em>in proc. IEEE ASRU 2025, pp. 1-8.</em>
+        <em>in Proc. IEEE ASRU 2025, pp. 1-8.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">This <a href="https://www.youtube.com/watch?v=j7lp3RhzfgI&t=120s" target="_blank">song</a> came to my mind every time downloading and preparing large databases.</span>
     </p>
     </div>
 </div>
@@ -110,6 +114,8 @@ My research focuses on speech processing, with experience in watermarking, deepf
     <br>
         Wanying Ge, Massimiliano Todisco, Nicholas Evans<br>
         <em>in Proc. The Speaker and Language Recognition Workshop (Odyssey 2022), pp. 70-76.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">The statement we wrote in Section 4, &ldquo;We accept that, within our current framework, it is impossible to fully isolate classifier behaviour from attack artefacts, since the latter are always learned using a specific classifier.&rdquo; was inspired by <a href="https://www.goodreads.com/book/show/59575939-an-immense-world" target="_blank">this book</a>.</span>
     </p>
     </div>
 </div>
@@ -127,6 +133,8 @@ My research focuses on speech processing, with experience in watermarking, deepf
     <br>
         Wanying Ge, Jose Patino, Massimiliano Todisco, Nicholas Evans<br>
         <em>in Proc. ICASSP 2022, pp. 6387-6391.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">I was attending a session on my Master topic when I realized I could apply the same <a href="https://www.isca-archive.org/interspeech_2021/sivasankaran21_interspeech.pdf" target="_blank">method</a> to my PhD topic.</span>
     </p>
     </div>
 </div>
@@ -144,6 +152,8 @@ My research focuses on speech processing, with experience in watermarking, deepf
     <br>
         Wanying Ge, Tianqi Zhang, Congcong Fan, Tian Zhang<br>
         <em>Chinese Journal of Acoustics, 2020.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">In my thesis, another version of this figure is a mixture of a female voice &ldquo;I am the mask you wear&rdquo; and a male voice &ldquo;It&rsquo;s me they hear&rdquo;, from <a href="https://www.youtube.com/watch?v=EGb4hj-EXt0" target="_blank">here</a>.</span>
     </p>
     </div>
 </div>
