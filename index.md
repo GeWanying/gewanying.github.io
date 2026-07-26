@@ -2,11 +2,16 @@
 
 ## About me
 
-<img class="profile-picture" src="profile.jpg">
+<div class="about-flex" markdown="1">
+<div class="about-text" markdown="1">
 
 Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/).
 
 My research focuses on speech processing, with experience in watermarking, deepfake detection, speaker verification, and source separation.
+
+</div>
+<img class="profile-picture" src="profile.jpg">
+</div>
 
 ## Experience
 
@@ -115,7 +120,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
         Wanying Ge, Massimiliano Todisco, Nicholas Evans<br>
         <em>in Proc. The Speaker and Language Recognition Workshop (Odyssey 2022), pp. 70-76.</em>
     <br>
-        <span style="font-size: 0.9em; color: #666;">The statement we wrote in Section 4, &ldquo;We accept that, within our current framework, it is impossible to fully isolate classifier behaviour from attack artefacts, since the latter are always learned using a specific classifier.&rdquo; was inspired by <a href="https://www.goodreads.com/book/show/59575939-an-immense-world" target="_blank">this book</a>.</span>
+        <span style="font-size: 0.9em; color: #666;">The statement we wrote in Section 4, &ldquo;We accept that, within our current framework, it is impossible to fully isolate classifier behaviour from attack artefacts, since the latter are always learned using a specific classifier.&rdquo; was inspired by <a href="https://www.goodreads.com/book/show/28116739-other-minds?ac=1&from_search=true&qid=igVhNaxTai&rank=1" target="_blank">this book</a>. A similar concept can be found in Chapters 2&amp;3 of <a href="https://www.goodreads.com/book/show/60186447-an-immense-world" target="_blank">this book</a>.</span>
     </p>
     </div>
 </div>
@@ -153,7 +158,7 @@ My research focuses on speech processing, with experience in watermarking, deepf
         Wanying Ge, Tianqi Zhang, Congcong Fan, Tian Zhang<br>
         <em>Chinese Journal of Acoustics, 2020.</em>
     <br>
-        <span style="font-size: 0.9em; color: #666;">In my thesis, another version of this figure is a mixture of a female voice &ldquo;I am the mask you wear&rdquo; and a male voice &ldquo;It&rsquo;s me they hear&rdquo;, from <a href="https://www.youtube.com/watch?v=EGb4hj-EXt0" target="_blank">here</a>.</span>
+        <span style="font-size: 0.9em; color: #666;">In my thesis, another version of this figure is a mixture of a female voice &ldquo;I am the mask you wear&rdquo; and a male voice &ldquo;It&rsquo;s me they hear&rdquo;, from this <a href="https://www.youtube.com/watch?v=EGb4hj-EXt0&t=133s" target="_blank">song</a>, since the task is to estimate a time-frequency mask.</span>
     </p>
     </div>
 </div>

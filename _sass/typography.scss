@@ -36,22 +36,29 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
+    .about-flex {
+        display: flex;
+        align-items: flex-start;
+        gap: 24px;
+        @media (max-width: $small-width) {
+            flex-direction: column-reverse;
+            align-items: center;
+        }
+    }
+    .about-text {
+        flex: 1;
+        min-width: 0;
+    }
     .profile-picture {
         height: $image-size;
         width: $image-size;
         object-fit: cover;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
+        flex: 0 0 auto;
+        margin-top: -10px;
         border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
-        }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
         }
     }
     img {
