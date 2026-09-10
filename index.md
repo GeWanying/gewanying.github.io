@@ -7,7 +7,11 @@
 
 Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/).
 
-My research focuses on speech processing, with experience in watermarking, deepfake detection, speaker verification, and source separation.
+My research is in speech AI/ML, with experience in:
+
+* evaluation and benchmarking of audio watermarking
+* understanding deepfake detection and speaker verification
+* source separation from single observation
 
 </div>
 <img class="profile-picture" src="profile.jpg">
@@ -21,6 +25,25 @@ My research focuses on speech processing, with experience in watermarking, deepf
 * Research Intern, Idiap Research Institute, April 2023 - July 2023
 
 ## Selected publications
+
+<div class="pub">
+    <div class="pub-teaser">
+        <img src="assets/pub/acmmm26-interpretable-experts.png" alt="acmmm26-interpretable-experts teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">[ACM MM Workshop '26] Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores</span>
+        <a href="https://arxiv.org/pdf/2607.21127" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+    <br>
+        Viola Negroni, Xin Wang, Wanying Ge, Paolo Bestagini, Junichi Yamagishi, Stefano Tubaro<br>
+        <em>The 2nd Deepfake Forensics workshop, ACM Multimedia 2026.</em>
+    <br>
+        <span style="font-size: 0.9em; color: #666;">&ldquo;<a href="https://www.imdb.com/title/tt1208128/trivia/?item=tr1757313&ref_=ext_shr_lnk" target="_blank">Molto bene</a>.&rdquo;</span>
+    </p>
+    </div>
+</div>
 
 <div class="pub">
     <div class="pub-teaser">

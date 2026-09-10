@@ -7,6 +7,7 @@ can add them one at a time.
 
 | File | Paper |
 |------|-------|
+| `acmmm26-interpretable-experts.png` | [ACM MM Workshop '26] Toward Interpretable Speech Deepfake Detection... |
 | `interspeech26-rl-generalization.png` | [INTERSPEECH '26] Does Fine-tuning by Reinforcement Learning Improve Generalization... |
 | `fakemark.png` | [CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts |
 | `asru25-post-training.png` | [ASRU '25] Post-training for Deepfake Speech Detection |
