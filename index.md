@@ -7,10 +7,10 @@
 
 Hello! I am Wanying Ge (葛宛营). I'm a postdoc at [Yamagishi Lab](https://nii-yamagishilab.github.io/), National Institute of Informatics, Japan. I defended my Ph.D. from Sorbonne University & EURECOM, supervised by [Prof. Nicholas Evans](https://www.eurecom.fr/en/people/evans-nicholas) and [Prof. Massimiliano Todisco](http://www.massimilianotodisco.eu/).
 
-My research is in speech AI/ML, with experience in:
+My research focuses on audio AI/ML, with experience in:
 
-* evaluation and benchmarking of audio watermarking
-* understanding deepfake detection and speaker verification
+* watermarking evaluation and benchmarking
+* understanding deepfake detection
 * source separation from single observation
 
 </div>
