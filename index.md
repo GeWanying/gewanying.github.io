@@ -28,13 +28,36 @@ My research focuses on audio AI/ML, with experience in:
 
 <div class="pub">
     <div class="pub-teaser">
+        <img src="assets/pub/slt26-audiollm.png" alt="slt26-audiollm teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
+    </div>
+    <div class="pub-info">
+    <p>
+        <span style="color: #0452CA;">What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs</span>
+        <a href="https://arxiv.org/abs/2610.17617" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/AntiDeepfake-AudioLLM" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+    <br>
+        Wanying Ge, Xin Wang, Junichi Yamagishi<br>
+        <em>in SLT 2026.</em>
+    </p>
+    </div>
+</div>
+
+<div class="pub">
+    <div class="pub-teaser">
         <img src="assets/pub/acmmm26-interpretable-experts.png" alt="acmmm26-interpretable-experts teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[ACM MM Workshop '26] Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores</span>
+        <span style="color: #0452CA;">Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores</span>
         <a href="https://arxiv.org/pdf/2607.21127" target="_blank">
             <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/MoE-AntiDeepfake" target="_blank">
+            <i class="fab fa-github"></i>
         </a>
     <br>
         Viola Negroni, Xin Wang, Wanying Ge, Paolo Bestagini, Junichi Yamagishi, Stefano Tubaro<br>
@@ -51,7 +74,7 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[INTERSPEECH '26] Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
+        <span style="color: #0452CA;">Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
         <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
             <i class="fas fa-file-pdf"></i>
         </a>
@@ -71,9 +94,12 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
+        <span style="color: #0452CA;">FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
         <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
             <i class="fas fa-file-pdf"></i>
+        </a>
+        <a href="https://github.com/nii-yamagishilab/fakemark" target="_blank">
+            <i class="fab fa-github"></i>
         </a>
     <br>
         Wanying Ge, Xin Wang, Junichi Yamagishi<br>
@@ -90,7 +116,7 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[ASRU '25] Post-training for Deepfake Speech Detection</span>
+        <span style="color: #0452CA;">Post-training for Deepfake Speech Detection</span>
         <a href="https://arxiv.org/pdf/2506.21090.pdf" target="_blank">
             <i class="fas fa-file-pdf"></i>
         </a>
@@ -112,7 +138,7 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[INTERSPEECH '25] A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
+        <span style="color: #0452CA;">A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
         <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
             <i class="fas fa-file-pdf"></i>
         </a>
@@ -132,7 +158,7 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[Odyssey '22] Explainable Deepfake and Spoofing Detection: An Attack Analysis Using SHapley Additive exPlanations</span>
+        <span style="color: #0452CA;">Explainable Deepfake and Spoofing Detection: An Attack Analysis Using SHapley Additive exPlanations</span>
         <a href="https://arxiv.org/pdf/2202.13693.pdf" target="_blank">
             <i class="fas fa-file-pdf"></i>
         </a>
@@ -154,7 +180,7 @@ My research focuses on audio AI/ML, with experience in:
     </div>
     <div class="pub-info">
     <p>
-        <span style="color: #0452CA;">[ICASSP '22] Explaining Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
+        <span style="color: #0452CA;">Explaining Deep Learning Models for Spoofing and Deepfake Detection With SHapley Additive exPlanations</span>
         <a href="https://arxiv.org/pdf/2110.03309.pdf" target="_blank">
             <i class="fas fa-file-pdf"></i>
         </a>

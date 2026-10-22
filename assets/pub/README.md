@@ -7,6 +7,7 @@ can add them one at a time.
 
 | File | Paper |
 |------|-------|
+| `slt26-audiollm.png` | [SLT '26] What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs |
 | `acmmm26-interpretable-experts.png` | [ACM MM Workshop '26] Toward Interpretable Speech Deepfake Detection... |
 | `interspeech26-rl-generalization.png` | [INTERSPEECH '26] Does Fine-tuning by Reinforcement Learning Improve Generalization... |
 | `fakemark.png` | [CVPR Workshop '26] FakeMark: Deepfake Speech Attribution With Watermarked Artifacts |
