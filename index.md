@@ -63,49 +63,7 @@ My research focuses on audio AI/ML, with experience in:
         Viola Negroni, Xin Wang, Wanying Ge, Paolo Bestagini, Junichi Yamagishi, Stefano Tubaro<br>
         <em>The 2nd Deepfake Forensics workshop, ACM Multimedia 2026.</em>
     <br>
-        <span style="font-size: 0.9em; color: #666;">&ldquo;<a href="https://www.imdb.com/title/tt1208128/trivia/?item=tr1757313&ref_=ext_shr_lnk" target="_blank">Molto bene</a>.&rdquo;</span>
-    </p>
-    </div>
-</div>
-
-<div class="pub">
-    <div class="pub-teaser">
-        <img src="assets/pub/interspeech26-rl-generalization.png" alt="interspeech26-rl-generalization teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
-    </div>
-    <div class="pub-info">
-    <p>
-        <span style="color: #0452CA;">Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?</span>
-        <a href="https://arxiv.org/pdf/2603.02914" target="_blank">
-            <i class="fas fa-file-pdf"></i>
-        </a>
-        <a href="https://github.com/nii-yamagishilab/AntiDeepfake/blob/main/README_grpo.md" target="_blank">
-            <i class="fab fa-github"></i>
-        </a>
-    <br>
-        Xin Wang, Wanying Ge, Junichi Yamagishi<br>
-        <em>in INTERSPEECH 2026.</em>
-    </p>
-    </div>
-</div>
-
-<div class="pub">
-    <div class="pub-teaser">
-        <img src="assets/pub/fakemark.png" alt="fakemark teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
-    </div>
-    <div class="pub-info">
-    <p>
-        <span style="color: #0452CA;">FakeMark: Deepfake Speech Attribution With Watermarked Artifacts</span>
-        <a href="https://arxiv.org/pdf/2510.12042" target="_blank">
-            <i class="fas fa-file-pdf"></i>
-        </a>
-        <a href="https://github.com/nii-yamagishilab/fakemark" target="_blank">
-            <i class="fab fa-github"></i>
-        </a>
-    <br>
-        Wanying Ge, Xin Wang, Junichi Yamagishi<br>
-        <em> The Authenticity & Provenance in the Age of AI workshop.</em>
-    <br>
-        <span style="font-size: 0.9em; color: #666;">The local <a href="https://www.denverartmuseum.org/en" target="_blank">museum</a> is one of the best I visited.</span>
+        <span style="font-size: 0.9em; color: #666;">Molto bene.<sup><a href="https://www.imdb.com/title/tt1208128/trivia/?item=tr1757313&ref_=ext_shr_lnk" target="_blank">[1]</a></sup><sup><a href="https://lnkd.in/p/gXtSMWSb" target="_blank">[2]</a></sup></span>
     </p>
     </div>
 </div>
@@ -128,26 +86,6 @@ My research focuses on audio AI/ML, with experience in:
         <em>in Proc. IEEE ASRU 2025, pp. 1-8.</em>
     <br>
         <span style="font-size: 0.9em; color: #666;">This <a href="https://www.youtube.com/watch?v=j7lp3RhzfgI&t=120s" target="_blank">song</a> came to my mind every time downloading and preparing large databases.</span>
-    </p>
-    </div>
-</div>
-
-<div class="pub">
-    <div class="pub-teaser">
-        <img src="assets/pub/interspeech25-proactive-passive.png" alt="interspeech25-proactive-passive teaser" onerror="this.onerror=null;this.src=&quot;data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='180' height='120'&gt;&lt;rect width='100%25' height='100%25' fill='%23f4f4f4' stroke='%23e0e0e0'/&gt;&lt;text x='50%25' y='50%25' font-size='13' fill='%23aaa' text-anchor='middle' dominant-baseline='middle'&gt;figure&lt;/text&gt;&lt;/svg&gt;&quot;">
-    </div>
-    <div class="pub-info">
-    <p>
-        <span style="color: #0452CA;">A Comparative Study on Proactive and Passive Detection of Deepfake Speech</span>
-        <a href="https://arxiv.org/pdf/2506.14398.pdf" target="_blank">
-            <i class="fas fa-file-pdf"></i>
-        </a>
-        <a href="https://github.com/nii-yamagishilab/antispoofing-watermark" target="_blank">
-            <i class="fab fa-github"></i>
-        </a>
-    <br>
-        Chia-Hua Wu, Wanying Ge, Xin Wang, Junichi Yamagishi, Yu Tsao, Hsin-Min Wang<br>
-        <em>in Proc. INTERSPEECH 2025, pp. 5328-5332.</em>
     </p>
     </div>
 </div>
